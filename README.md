@@ -298,13 +298,13 @@ The application has been transformed from a basic CRUD demo into a production-re
 ### For tutors  How the setup.sh file works
 - **code explanantions and what it does**
 
-
+[Inner workings of bash file named setup ](setup_script_documentation.md)
 
 ### The GTK C++ Code all code explained use of pointers etc 
 
-[How the GUI is contsructed ](setup_script_documentation.md)
+[How the GUI is contsructed ](contacts_app_documentation.md)
 
-[Inner workings of bash file named setup ](setup_script_documentation.md)
+
 
 The codebase is now maintainable, extensible, and ready for production use or further development.
 
