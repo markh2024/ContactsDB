@@ -1011,13 +1011,13 @@ Menu choices validated before execution.
 
 The `setup.sh` script provides:
 
-- ✅ **Automated setup** for multiple Linux distributions
-- ✅ **Interactive menu** for step-by-step control
-- ✅ **Error handling** with clear messages
-- ✅ **Dependency verification** before building
-- ✅ **Color-coded output** for easy reading
-- ✅ **Logging** for troubleshooting
-- ✅ **Idempotent** operations (safe to re-run)
-- ✅ **Clean separation** of concerns
+-  **Automated setup** for multiple Linux distributions
+-  **Interactive menu** for step-by-step control
+-  **Error handling** with clear messages
+-  **Dependency verification** before building
+-  **Color-coded output** for easy reading
+-  **Logging** for troubleshooting
+-  **Idempotent** operations (safe to re-run)
+-  **Clean separation** of concerns
 
 It handles the complete workflow from a fresh Linux install to a running application, making deployment simple and reliable.
